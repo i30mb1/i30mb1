@@ -3,7 +3,7 @@
 I love Open source and Github is my second home :house:
 
 - I'm from Belarus, Minsk :indonesia:
-- :phone: Long time Android Engineer
+- :iphone: Long time Android Engineer
 - Passionate about building mobile apps :pig: :pig: :pig:
 
 ![](https://github-readme-stats.vercel.app/api?username=i30mb1&show_icons=true&count_private=true&line_height=40&hide=contribs,prs,issues)
