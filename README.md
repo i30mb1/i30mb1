@@ -2,7 +2,7 @@
 
 I love Open source and Github is my second home :house:
 
-- I'm from Belarus, Minsk :tokyo_tower:
+- I'm from Belarus, Minsk :belarus:
 - 👨‍💻 Long time Android Engineer
 - Passionate about building mobile apps :apple: :robot:
 
