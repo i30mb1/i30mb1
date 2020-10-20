@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello everyone, I'm i30mb1 :cat:
 
+I love Open source and Github is my second home :house:
+
+- I'm from Belarus, Minsk :tokyo_tower:
+- 👨‍💻 Long time Android Engineer
+- Passionate about building mobile apps :apple: :robot:
+- Occassionally, play around with C++, :heart: functional programming and try to be good at it
+
+![](https://github-readme-stats.vercel.app/api?username=i30mb1f&show_icons=true&count_private=true&line_height=40)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i30mb1f&hide=html)
 <!--
 **i30mb1/i30mb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
