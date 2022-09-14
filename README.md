@@ -5,11 +5,16 @@
 I am an android developer, computer geek who enjoys mobile apps, learning new things every day, reading books about personal development, and video gaming. As well as publish articles on Medium i also answering question on Stackoverflow to share my experience with other Android developers.
 
 - I'm from Belarus, Minsk :indonesia:
-- :iphone: Long time Android Engineer
 - Passionate about building mobile apps :pig: :pig: :pig:
 
-![](https://github-readme-stats.vercel.app/api?username=i30mb1&show_icons=true&count_private=true&line_height=40&hide=contribs,prs,issues)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i30mb1&hide=html)
+<div align="center" >
+      <img src="https://github-readme-stats.vercel.app/api?username=i30mb1&show_icons=true&count_private=true&line_height=40&hide=contribs,prs,issues">
+  <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i30mb1&hide=html">
+
+
+</div>
+
 <!--
 **i30mb1/i30mb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
