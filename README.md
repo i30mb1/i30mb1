@@ -4,9 +4,6 @@
 
 I am an android developer, computer geek who enjoys mobile apps, learning new things every day, reading books about personal development, and video gaming. As well as publish articles on Medium i also answering question on Stackoverflow to share my experience with other Android developers.
 
-- I'm from Belarus, Minsk :indonesia:
-- Passionate about building mobile apps :pig: :pig: :pig:
-
 <div align="center" >
       <img src="https://github-readme-stats.vercel.app/api?username=i30mb1&show_icons=true&count_private=true&line_height=40&hide=contribs,prs,issues&count_private=true">
   <br>
