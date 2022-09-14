@@ -1,8 +1,8 @@
-### Hello everyone, <a href="https://github.com/ezatpanah"> Eugene </a>
+### Hello everyone, I am <a href="https://github.com/ezatpanah"> Eugene </a>
 
 <img align="center" alt="wallpaper" src="https://github.com/ezatpanah/ezatpanah/raw/main/android.gif"/>
 
-I love Open source and Github is my second home :house:
+I am an android developer, computer geek who enjoys mobile apps, learning new things every day, reading books about personal development, and video gaming. As well as publish articles on Medium i also answering question on Stackoverflow to share my experience with other Android developers.
 
 - I'm from Belarus, Minsk :indonesia:
 - :iphone: Long time Android Engineer
