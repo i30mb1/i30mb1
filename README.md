@@ -8,9 +8,9 @@ I am an android developer, computer geek who enjoys mobile apps, learning new th
 - Passionate about building mobile apps :pig: :pig: :pig:
 
 <div align="center" >
-      <img src="https://github-readme-stats.vercel.app/api?username=i30mb1&show_icons=true&count_private=true&line_height=40&hide=contribs,prs,issues">
+      <img src="https://github-readme-stats.vercel.app/api?username=i30mb1&show_icons=true&count_private=true&line_height=40&hide=contribs,prs,issues&count_private=true">
   <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i30mb1&hide=html">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i30mb1&hide=html&layout=compact&show_icons=true&count_private=true">
 
 
 </div>
